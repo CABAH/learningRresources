@@ -10,4 +10,9 @@ Various online & other resources for learning the R programming language
 - <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry: R for data analysis and visualization of Ecological Data</a>
 
 ## R cheatsheets
-In this <a href="https://github.com/CABAH/R-ecology-lesson">folder</a>, you can download any of the 70 different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
+In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70 different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
+
+## Electronic books
+In the <a href="https://github.com/CABAH/learningRresources/tree/main/books"><strong><em>books</em></strong> folder</a>, you can download the following books in PDF format:
+- Dalgaard 2008. <em>Introductory Statistics with R</em>
+- Zuur et al. 2009. <em>A Beginner's Guide to R</em>
