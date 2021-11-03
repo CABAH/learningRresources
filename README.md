@@ -1,6 +1,6 @@
 # Resources for learning R
 
-Various online & other resources for learning the R programming language
+Various online & other resources for learning the R programming language. This is a growing list.
 
 ## Online resources
 - <a href="https://www.statmethods.net/">Quick-R</a>
