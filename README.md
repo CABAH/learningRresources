@@ -7,3 +7,4 @@ Various online & other resources for learning the R programming language
 - <a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a> 
 - <a href="https://www.r-bloggers.com/">R-bloggers</a>
 - <a href="https://r4ds.had.co.nz/">R for Data Science</a>
+- <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry: R for data analysis and visualization of Ecological Data</a>
