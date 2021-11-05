@@ -10,6 +10,7 @@ Various online & other resources for learning the R programming language. This i
 - <a href="https://www.r-bloggers.com/">R-bloggers</a>
 - <a href="https://r4ds.had.co.nz/">R for Data Science</a>
 - <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry: R for data analysis and visualization of Ecological Data</a>
+- <a href="https://ggplot2.tidyverse.org"><code>ggplot2</code></a>
 
 ## R cheatsheets
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70 different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
