@@ -9,7 +9,7 @@ Various online & other resources for learning the R programming language. This i
 - <a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a>: R shortcourses and modules 
 - <a href="https://www.r-bloggers.com/">R-bloggers</a>: a blog aggregator of content contributed by bloggers who write about R
 - <a href="https://r4ds.had.co.nz/">R for Data Science</a>: will teach you how to do data science with R
-- <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry: R for data analysis and visualization of Ecological Data</a>
+- <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry</a>: R for data analysis and visualization of Ecological Data
 - <a href="https://ggplot2.tidyverse.org"><code>ggplot2</code></a>: a system for declaratively creating graphics
 - <a href="https://www.tidyverse.org"><code>tidyverse</code></a>: an opinionated collection of R packages designed for data science
 - <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
