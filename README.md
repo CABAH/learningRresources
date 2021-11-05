@@ -1,6 +1,6 @@
 # Resources for learning <a href="https://cran.r-project.org">R</a>
 
-<img align="right" src="R_logo.png" alt="R" width="250" style="margin-top: 20px">
+<a href="https://cran.r-project.org"><img align="right" src="R_logo.png" alt="R" width="250" style="margin-top: 20px"></a>
 
 Various online & other resources for learning the R programming language. This is a growing list.
 
