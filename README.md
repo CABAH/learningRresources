@@ -15,13 +15,13 @@ Various online & other resources for learning the R programming language. This i
 - <a href="https://www.tidyverse.org"><code>tidyverse</code></a>: an opinionated collection of R packages designed for data science
 - <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
 
-## R cheatsheets
-In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
-
 ## Online communities (Q & A)
 - <a href="https://www.r-bloggers.com/">R-bloggers</a>: a blog aggregator of content contributed by bloggers who write about R
 - <a href="https://stackoverflow.com">stackoverflow</a>: a collaboratively edited question and answer site for professional and enthusiast programmers
 - <a href="https://stat.ethz.ch/mailman/listinfo/r-help">R-help</a>: the main R mailing list, for announcements about the development of R and the availability of new code, questions and answers about problems and solutions using R, enhancements and patches to the source code and documentation of R
+
+## R cheatsheets
+In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
 
 ## Electronic books
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/books"><strong><em>books</em></strong> folder</a>, you can download the following books in PDF format:
