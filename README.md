@@ -30,10 +30,9 @@ These resources are sourced from the <a href="https://cran.r-project.org/other-d
 - <a href="https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf"><em>Visual Statistics. Use R!</em></a> by Alexey Shipunov (PDF, 2019-03-17, 429 pages)
 - <a href="https://cran.r-project.org/doc/contrib/usingR.pdf"><em>Using R for Data Analysis and Graphics - Introduction, Examples and Commentary</em><a/> by John Maindonald
 - <a href="https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf"><em>Practical Regression and Anova using R</em></a> by Julian Faraway
-- The Web Appendix to the book <em>An R Companion to Applied Regression</em> (2nd edition) by John Fox and Sanford Weisberg: contains information about R to fit a variety of regression models
-- <em>Statistical Computing and Graphics Course Notes</em> by Frank E. Harrell: includes material on S, LaTeX, reproducible research, making good graphs, brief overview of computer languaes, etc.
-- <em>An Introduction to R: Software for Statistical Modelling & Computing</em> by Petra Kuhnert and Bill Venables
-- <em>Introduction to the R Project for Statistical Computing for Use at the ITC</em> by David Rossiter
+- <a href="https://cran.r-project.org/doc/contrib/Harrell-statcomp-notes.pdf"><em>Statistical Computing and Graphics Course Notes</em></a> by Frank E. Harrell: includes material on S, LaTeX, reproducible research, making good graphs, brief overview of computer languaes, etc.
+- <a href="https://cran.r-project.org/doc/contrib/Harrell-statcomp-notes.pdf"><em>An Introduction to R: Software for Statistical Modelling & Computing</em></a> by Petra Kuhnert and Bill Venables
+- <a href="https://cran.r-project.org/doc/contrib/Rossiter-RIntro-ITC.pdf"><em>Introduction to the R Project for Statistical Computing for Use at the ITC</em></a> by David Rossiter
 - <em>Analysis of Epidemiological Data Using R and Epicalc</em> by Virasakdi Chongsuvivatwong
 - <em>Statistics Using R with Biological Examples</em> by Kim Seefeld and Ernst Linder
 - <code>IcebreakeR</code> by Andrew Robinson
