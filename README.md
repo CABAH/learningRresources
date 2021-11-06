@@ -54,13 +54,11 @@ These resources (mostly large PDFs, but some HTML sites & ZIP files) are sourced
 - <a href="https://cran.r-project.org/doc/contrib/Ricci-distributions-en.pdf"><em>Fitting Distributions with R</em></a> by Vito Ricci
 - <a href="https://cran.r-project.org/doc/contrib/Marthews-BeginnersRcourse.zip"><em>The Friendly Beginners' R Course</em></a> by Toby Marthews
 - <a href="https://cran.r-project.org/doc/contrib/Vikneswaran-ED_companion.pdf"><em>An R companion to ‘Experimental Design’</em></a> by Vikneswaran
-- <em>The R Guide</em> (version 2.5) by Jason Owen
-- <em>Multilevel Modeling in R</em> by Paul Bliese: a brief introduction to R and the packages multilevel and <code>nlme</code>
-- <em>Using R for Scientific Computing</em> by Karline Soetaert: lecture notes and reference card for R beginners, including exercises
-- <em>Creating R Packages: A Tutorial</em> by Friedrich Leisch
-- <em>Creating R Packages, Using CRAN, R-Forge, And Local R Archive Networks And Subversion (SVN) Repositories</em> by Spencer Graves and Sundar Dorai-Raj
-- <em>Guide to Credit Scoring in R</em> by Dhruv Sharma
-- <em>R for Biologists” by Marco Martinez
-- <em>R Commander: An Introduction</em> by Natasha Karp
-- <em>An introduction to data cleaning with R</em> by Edwin de Jonge and Mark van der Loo
-- <em>Introduction to visualising spatial data in R</em> by Robin Lovelace and James Cheshire
+- <a href="https://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf"><em>The R Guide</em></a> (version 2.5) by Jason Owen
+- <a href="https://cran.r-project.org/doc/contrib/Bliese_Multilevel.pdf"><em>Multilevel Modelling in R</em></a> by Paul Bliese: a brief introduction to R and the packages multilevel and <code>nlme</code>
+- <a href="https://cran.r-project.org/doc/contrib/Soetaert_Scientificcomputing.zip"><em>Using R for Scientific Computing</em></a> by Karline Soetaert: lecture notes and reference card for R beginners, including exercises
+- <a href="https://cran.r-project.org/doc/contrib/Leisch-CreatingPackages.pdf"><em>Creating R Packages: A Tutorial</em></a> by Friedrich Leisch
+- <a href="https://cran.r-project.org/doc/contrib/Graves+DoraiRaj-RPackageDevelopment.pdf"><em>Creating R Packages, Using CRAN, R-Forge, and Local R Archive Networks and Subversion Repositories</em></a> by Spencer Graves and Sundar Dorai-Raj
+- <a href="https://cran.r-project.org/doc/contrib/Martinez-RforBiologistv1.1.pdf"><em>R for Biologists</em></a> by Marco Martinez
+- <a href="https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf"><em>An introduction to data cleaning with R</em></a> by Edwin de Jonge and Mark van der Loo
+- <a href="https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf"><em>Introduction to visualising spatial data in R</em></a> by Robin Lovelace and James Cheshire
