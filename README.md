@@ -27,7 +27,7 @@ In the <a href="https://github.com/CABAH/learningRresources/tree/main/books"><st
 ## Contributed R Documentation
 These resources are sourced from the <a href="https://cran.r-project.org/other-docs.html">CRAN area for contributed documentation</a>:
 
-- <em>Visual Statistics. Use R!</em> by Alexey Shipunov (PDF, 2019-03-17, 429 pages)
+- <a href="https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf"><em>Visual Statistics. Use R!</em></a> by Alexey Shipunov (PDF, 2019-03-17, 429 pages)
 - <em>Using R for Data Analysis and Graphics - Introduction, Examples and Commentary</em> by John Maindonald
 - <em>Practical Regression and Anova using R</em> by Julian Faraway
 - The Web Appendix to the book <em>An R Companion to Applied Regression</em> (2nd edition) by John Fox and Sanford Weisberg: contains information about R to fit a variety of regression models
