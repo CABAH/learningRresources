@@ -32,7 +32,7 @@ In the <a href="https://github.com/CABAH/learningRresources/tree/main/books"><st
 - Zuur et al. 2009. <em>A Beginner's Guide to R</em>
 
 ## Contributed R Documentation
-These resources are sourced from the <a href="https://cran.r-project.org/other-docs.html">CRAN area for contributed documentation</a>:
+These resources (mostly large PDFs, but some HTML sites & ZIP files) are sourced from the <a href="https://cran.r-project.org/other-docs.html">CRAN area for contributed documentation</a>:
 
 - <a href="https://cran.r-project.org/doc/contrib/Shipunov-visual_statistics.pdf"><em>Visual Statistics. Use R!</em></a> by Alexey Shipunov
 - <a href="https://cran.r-project.org/doc/contrib/usingR.pdf"><em>Using R for Data Analysis and Graphics - Introduction, Examples and Commentary</em><a/> by John Maindonald
@@ -42,15 +42,14 @@ These resources are sourced from the <a href="https://cran.r-project.org/other-d
 - <a href="https://cran.r-project.org/doc/contrib/Rossiter-RIntro-ITC.pdf"><em>Introduction to the R Project for Statistical Computing for Use at the ITC</em></a> by David Rossiter
 - <a href="https://cran.r-project.org/doc/contrib/Seefeld_StatsRBio.pdf"><em>Statistics Using R with Biological Examples</em></a> by Kim Seefeld and Ernst Linder
 - <a href="https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf"><em>IcebreakeR</em></a> by Andrew Robinson
-- <em>Applied Statistics for Bioinformatics Using R</em> by Wim Krijnen
-- <em>An Introduction to R</em> by Longhow Lam
-- <em>R and Data Mining: Examples and Case Studies</em> by Yanchang Zhao
-- <em>A Student's Guide to R</em> by Nicholas J. Horton, Randall Pruim, and Daniel T. Kaplan
-- <em>Is R Suitable Enough for Biostatisticians?</em> by Adrian Olszewski
-- <em>R for Beginners</em> by Emmanuel Paradis
-- <em>Kickstarting R (version 1.6)</em> compiled by Jim Lemon
-- <em>R for Windows Users (version 2.0)</em> by Ko-Kang Wang
-- <em>Building Microsoft Windows Versions of R and R packages under Intel Linux</em> by Jun Yan and A. J. Rossini
+- <a href="https://cran.r-project.org/doc/contrib/Krijnen-IntroBioInfStatistics.pdf"><em>Applied Statistics for Bioinformatics Using R</em></a> by Wim Krijnen
+- <a href="https://cran.r-project.org/doc/contrib/Lam-IntroductionToR_LHL.pdf"><em>An Introduction to R</em></a> by Longhow Lam
+- <a href="https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf"><em>R and Data Mining: Examples and Case Studies</em></a> by Yanchang Zhao
+- <a href="https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf"><em>A Student's Guide to R</em></a> by Nicholas J. Horton, Randall Pruim, and Daniel T. Kaplan
+- <a href="https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf"><em>R for Beginners</em></a> by Emmanuel Paradis
+- <a href="https://cran.r-project.org/doc/contrib/Lemon-kickstart/index.html"><em>Kickstarting R (version 1.6)</em></a> compiled by Jim Lemon
+- <a href="https://cran.r-project.org/doc/contrib/Wang-WinBook.pdf"><em>R for Windows Users (version 2.0)</em></a> by Ko-Kang Wang
+- <a href="https://cran.r-project.org/doc/contrib/cross-build.pdf"><em>Building Microsoft Windows Versions of R and R packages under Intel Linux</em></a> by Jun Yan and A. J. Rossini
 - <em>A Guide for the Unwilling S User</em> by Patrick Burns
 - <em>The R language — a short companion</em> by Marc Vandemeulebroecke
 - <em>Fitting Distributions with R</em> by Vito Ricci
