@@ -50,11 +50,10 @@ These resources (mostly large PDFs, but some HTML sites & ZIP files) are sourced
 - <a href="https://cran.r-project.org/doc/contrib/Lemon-kickstart/index.html"><em>Kickstarting R (version 1.6)</em></a> compiled by Jim Lemon
 - <a href="https://cran.r-project.org/doc/contrib/Wang-WinBook.pdf"><em>R for Windows Users (version 2.0)</em></a> by Ko-Kang Wang
 - <a href="https://cran.r-project.org/doc/contrib/cross-build.pdf"><em>Building Microsoft Windows Versions of R and R packages under Intel Linux</em></a> by Jun Yan and A. J. Rossini
-- <em>A Guide for the Unwilling S User</em> by Patrick Burns
-- <em>The R language — a short companion</em> by Marc Vandemeulebroecke
-- <em>Fitting Distributions with R</em> by Vito Ricci
-- <em>The Friendly Beginners' R Course</em> by Toby Marthews
-- <em>An R companion to ‘Experimental Design’</em> by Vikneswaran
+- <a href="https://cran.r-project.org/doc/contrib/R_language.pdf"><em>The R language — a short companion</em></a> by Marc Vandemeulebroecke
+- <a href="https://cran.r-project.org/doc/contrib/Ricci-distributions-en.pdf"><em>Fitting Distributions with R</em></a> by Vito Ricci
+- <a href="https://cran.r-project.org/doc/contrib/Marthews-BeginnersRcourse.zip"><em>The Friendly Beginners' R Course</em></a> by Toby Marthews
+- <a href="https://cran.r-project.org/doc/contrib/Vikneswaran-ED_companion.pdf"><em>An R companion to ‘Experimental Design’</em></a> by Vikneswaran
 - <em>The R Guide</em> (version 2.5) by Jason Owen
 - <em>Multilevel Modeling in R</em> by Paul Bliese: a brief introduction to R and the packages multilevel and <code>nlme</code>
 - <em>Using R for Scientific Computing</em> by Karline Soetaert: lecture notes and reference card for R beginners, including exercises
