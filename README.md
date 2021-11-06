@@ -16,9 +16,12 @@ Various online & other resources for learning the R programming language. This i
 - <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
 
 ## Online communities (Q & A)
-- <a href="https://www.r-bloggers.com/">R-bloggers</a>: a blog aggregator of content contributed by bloggers who write about R
 - <a href="https://stackoverflow.com">stackoverflow</a>: a collaboratively edited question and answer site for professional and enthusiast programmers
 - <a href="https://stat.ethz.ch/mailman/listinfo/r-help">R-help</a>: the main R mailing list, for announcements about the development of R and the availability of new code, questions and answers about problems and solutions using R, enhancements and patches to the source code and documentation of R
+- <a href="https://www.r-bloggers.com/">R-bloggers</a>: a blog aggregator of content contributed by bloggers who write about R
+- <a href="https://blog.revolutionanalytics.com">Revolutions</a> (blog): dedicated to news and information of interest to members of the R community
+- <a href="https://www.r-statistics.com/">R-statistics</a> (blog): statistics with R, and open source stuff (software, data, community)
+- <a href="https://rdatamining.wordpress.com">RDataMining</a>: presents examples on using R for data mining applications
 
 ## R cheatsheets
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
