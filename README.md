@@ -30,7 +30,7 @@ These resources are sourced from the <a href="https://cran.r-project.org/other-d
 - <em>Visual Statistics. Use R!</em> by Alexey Shipunov (PDF, 2019-03-17, 429 pages)
 - <em>Using R for Data Analysis and Graphics - Introduction, Examples and Commentary</em> by John Maindonald
 - <em>Practical Regression and Anova using R</em> by Julian Faraway
-- <em>The Web Appendix to the book <em>An R Companion to Applied Regression</em> (second edition) by John Fox and Sanford Weisberg: contains information about R to fit a variety of regression models
+- The Web Appendix to the book <em>An R Companion to Applied Regression</em> (2nd edition) by John Fox and Sanford Weisberg: contains information about R to fit a variety of regression models
 - <em>Statistical Computing and Graphics Course Notes</em> by Frank E. Harrell: includes material on S, LaTeX, reproducible research, making good graphs, brief overview of computer languaes, etc.
 - <em>An Introduction to R: Software for Statistical Modelling & Computing</em> by Petra Kuhnert and Bill Venables
 - <em>Introduction to the R Project for Statistical Computing for Use at the ITC</em> by David Rossiter
