@@ -5,7 +5,7 @@
 Various online & other resources for learning the R programming language. This is a growing list.
 
 ## Online resources
-- <a href="https://www.statmethods.net/">Introduction to R</a>: a free, 10-hour course to learn the core fundamentals of the R language for interactive use as well as programming
+- <a href="https://www.udemy.com/course/introduction-to-r/">Introduction to R</a>: a free, 10-hour course to learn the core fundamentals of the R language for interactive use as well as programming
 - <a href="https://www.statmethods.net/">Quick-R</a>: designed for people who want to transition to R
 - <a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a>: R shortcourses and modules 
 - <a href="https://www.r-bloggers.com/">R-bloggers</a>: a blog aggregator of content contributed by bloggers who write about R
