@@ -40,9 +40,8 @@ These resources are sourced from the <a href="https://cran.r-project.org/other-d
 - <a href="https://cran.r-project.org/doc/contrib/Harrell-statcomp-notes.pdf"><em>Statistical Computing and Graphics Course Notes</em></a> by Frank E. Harrell: includes material on S, LaTeX, reproducible research, making good graphs, brief overview of computer languaes, etc.
 - <a href="https://cran.r-project.org/doc/contrib/Harrell-statcomp-notes.pdf"><em>An Introduction to R: Software for Statistical Modelling & Computing</em></a> by Petra Kuhnert and Bill Venables
 - <a href="https://cran.r-project.org/doc/contrib/Rossiter-RIntro-ITC.pdf"><em>Introduction to the R Project for Statistical Computing for Use at the ITC</em></a> by David Rossiter
-- <em>Analysis of Epidemiological Data Using R and Epicalc</em> by Virasakdi Chongsuvivatwong
-- <em>Statistics Using R with Biological Examples</em> by Kim Seefeld and Ernst Linder
-- <code>IcebreakeR</code> by Andrew Robinson
+- <a href="https://cran.r-project.org/doc/contrib/Seefeld_StatsRBio.pdf"><em>Statistics Using R with Biological Examples</em></a> by Kim Seefeld and Ernst Linder
+- <a href="https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf"><em>IcebreakeR</em></a> by Andrew Robinson
 - <em>Applied Statistics for Bioinformatics Using R</em> by Wim Krijnen
 - <em>An Introduction to R</em> by Longhow Lam
 - <em>R and Data Mining: Examples and Case Studies</em> by Yanchang Zhao
