@@ -2,7 +2,7 @@
 
 <a href="https://cran.r-project.org"><img align="right" src="R_logo.png" alt="R" width="250" style="margin-top: 20px"></a>
 
-Various online & other resources for learning the <a href="https://cran.r-project.org">R programming language</a>. This is a growing list.
+Various online & other resources for learning and improving skills in the <a href="https://cran.r-project.org">R programming language</a>. This is a growing list.
 
 ## Online resources
 - <a href="https://www.udemy.com/course/introduction-to-r/">Introduction to R</a>: a free, 10-hour course to learn the core fundamentals of the R language for interactive use as well as programming
