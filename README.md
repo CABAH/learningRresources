@@ -21,7 +21,8 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://www.r-bloggers.com/">R-bloggers</a>: a blog aggregator of content contributed by bloggers who write about R
 - <a href="https://blog.revolutionanalytics.com">Revolutions</a> (blog): dedicated to news and information of interest to members of the R community
 - <a href="https://www.r-statistics.com/">R-statistics</a> (blog): statistics with R, and open source stuff (software, data, community)
-- <a href="https://rdatamining.wordpress.com">RDataMining</a>: presents examples on using R for data mining applications
+- <a href="https://rdatamining.wordpress.com">RDataMining</a>: presents examples on using R for data mining applications<a 
+- <a href="https://statsandr.com">Stats and R</a>: a blog about statistics and applications in R
 
 ## R cheatsheets
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
