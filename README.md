@@ -9,7 +9,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://www.statmethods.net/">Quick-R</a>: designed for people who want to transition to R
 - <a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a>: R shortcourses and modules 
 - <a href="https://r4ds.had.co.nz/">R for Data Science</a>: will teach you how to do data science with R
-- <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry</a>: R for data analysis and visualisation of Ecological Data
+- <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry</a>: R for data analysis and visualisation of ecological data
 - <a href="https://csgillespie.github.io/efficientR/">Efficient R programming</a>: online book showing ways to increase computational and programmer efficiency
 - <a href="https://ggplot2.tidyverse.org"><code>ggplot2</code></a>: a system for declaratively creating graphics
 - <a href="https://www.tidyverse.org"><code>tidyverse</code></a>: an opinionated collection of R packages designed for data science
