@@ -14,6 +14,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://ggplot2.tidyverse.org"><code>ggplot2</code></a>: a system for declaratively creating graphics
 - <a href="https://www.tidyverse.org"><code>tidyverse</code></a>: an opinionated collection of R packages designed for data science
 - <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
+- <a href="https://rmarkdown.rstudio.com"><code>rmarkdown</code></a>: a productive notebook interface to weave together narrative text and code to produce elegantly formatted output
 
 ## Online communities (Q & A)
 - <a href="https://stackoverflow.com">stackoverflow</a>: a collaboratively edited question and answer site for professional and enthusiast programmers
