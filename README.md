@@ -64,3 +64,6 @@ These resources (mostly large PDFs, but some HTML sites & ZIP files) are sourced
 - <a href="https://cran.r-project.org/doc/contrib/Martinez-RforBiologistv1.1.pdf"><em>R for Biologists</em></a> by Marco Martinez
 - <a href="https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf"><em>An introduction to data cleaning with R</em></a> by Edwin de Jonge and Mark van der Loo
 - <a href="https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf"><em>Introduction to visualising spatial data in R</em></a> by Robin Lovelace and James Cheshire
+  
+[<img src="CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
+
