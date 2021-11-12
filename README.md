@@ -15,6 +15,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://www.tidyverse.org"><code>tidyverse</code></a>: an opinionated collection of R packages designed for data science
 - <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
 - <a href="https://rmarkdown.rstudio.com"><code>rmarkdown</code></a>: a productive notebook interface to weave together narrative text and code to produce elegantly formatted output
+- <a href="http://environmentalcomputing.net">Environmental Computing</a>: a brief introduction to techniques for data organisation, graphics and analyses
 
 ## Online communities (Q & A)
 - <a href="https://stackoverflow.com">stackoverflow</a>: a collaboratively edited question and answer site for professional and enthusiast programmers
@@ -24,6 +25,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://www.r-statistics.com/">R-statistics</a> (blog): statistics with R, and open source stuff (software, data, community)
 - <a href="https://rdatamining.wordpress.com">RDataMining</a>: presents examples on using R for data mining applications<a 
 - <a href="https://statsandr.com">Stats and R</a>: a blog about statistics and applications in R
+- <a href="https://nicercode.github.io/">Nice R Code </a>: by ‘nicer’ we mean code that is easy to write and read, runs fast, gives reliable results, is easy to reuse in new projects, and is easy to share with collaborators
 
 ## R cheatsheets
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
