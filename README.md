@@ -7,6 +7,7 @@ Various online & other resources for learning and improving skills in the <a hre
 ## Online resources
 - <a href="https://www.udemy.com/course/introduction-to-r/">Introduction to R</a>: a free, 10-hour course to learn the core fundamentals of the R language for interactive use as well as programming
 - <a href="https://www.statmethods.net/">Quick-R</a>: designed for people who want to transition to R
+- <a href="https://www.rforecology.com">RforEcology</a>: a shortcut to learning R quickly, but effectively
 - <a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a>: R shortcourses and modules 
 - <a href="https://r4ds.had.co.nz/">R for Data Science</a>: will teach you how to do data science with R
 - <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry</a>: R for data analysis and visualisation of ecological data
