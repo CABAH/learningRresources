@@ -22,6 +22,7 @@ Various online & other resources for learning and improving skills in the <a hre
 ## Species distribution modelling
 - <a href="https://damariszurell.github.io/SDM-Intro/">Introduction to species distribution modelling in R</a>: a short, half-day introduction to species distribution modelling in R, including a brief overview of the concept of species distribution modelling, and an introduction to the main modelling steps
 - <a href="https://r-forge.r-project.org/scm/viewvc.php/*checkout*/pkg/inst/doc/Biomod_Presentation_Manual.pdf?revision=218&root=biomod&pathrev=218">Presentation Manual for BIOMOD</a> (PDF): BIOMOD is a platform for ensemble forecasting of species distributions, enabling the explicit treatment of model uncertainties and the examination of species-environment relationships
+- <a href="https://r-forge.r-project.org/scm/viewvc.php/*checkout*/pkg/biomod2/inst/doc/Simple_species_modelling.pdf?root=biomod">An example of species distribution modelling with <code>biomod2</code></a> (PDF): how to build, evaluate and project a single species distribution model using the <code>biomod2</code> package
 
 ## Online communities (Q & A)
 - <a href="https://stackoverflow.com">stackoverflow</a>: a collaboratively edited question and answer site for professional and enthusiast programmers
