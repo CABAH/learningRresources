@@ -19,6 +19,10 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
 - <a href="https://rmarkdown.rstudio.com"><code>rmarkdown</code></a>: a productive notebook interface to weave together narrative text and code to produce elegantly formatted output
 
+## Species distribution modelling
+- <a href="https://damariszurell.github.io/SDM-Intro/">Introduction to species distribution modelling in R</a>: a short, half-day introduction to species distribution modelling in R, including a brief overview of the concept of species distribution modelling, and an introduction to the main modelling steps
+- <a href="https://r-forge.r-project.org/scm/viewvc.php/*checkout*/pkg/inst/doc/Biomod_Presentation_Manual.pdf?revision=218&root=biomod&pathrev=218">Presentation Manual for BIOMOD</a> (PDF): BIOMOD is a platform for ensemble forecasting of species distributions, enabling the explicit treatment of model uncertainties and the examination of species-environment relationships
+
 ## Online communities (Q & A)
 - <a href="https://stackoverflow.com">stackoverflow</a>: a collaboratively edited question and answer site for professional and enthusiast programmers
 - <a href="https://stat.ethz.ch/mailman/listinfo/r-help">R-help</a>: the main R mailing list, for announcements about the development of R and the availability of new code, questions and answers about problems and solutions using R, enhancements and patches to the source code and documentation of R
@@ -32,10 +36,6 @@ Various online & other resources for learning and improving skills in the <a hre
 
 ## R cheatsheets
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more.
-
-## Species distribution modelling
-- <a href="https://damariszurell.github.io/SDM-Intro/">Introduction to species distribution modelling in R</a>: a short, half-day introduction to species distribution modelling in R, including a brief overview of the concept of species distribution modelling, and an introduction to the main modelling steps
-- <a href="https://r-forge.r-project.org/scm/viewvc.php/*checkout*/pkg/inst/doc/Biomod_Presentation_Manual.pdf?revision=218&root=biomod&pathrev=218">Presentation Manual for BIOMOD</a> (PDF): BIOMOD is a platform for ensemble forecasting of species distributions, enabling the explicit treatment of model uncertainties and the examination of species-environment relationships
 
 ## Electronic books
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/books"><strong><em>books</em></strong> folder</a>, you can download the following books in PDF format:
