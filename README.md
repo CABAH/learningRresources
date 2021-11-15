@@ -28,6 +28,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://rdatamining.wordpress.com">RDataMining</a>: presents examples on using R for data mining applications<a 
 - <a href="https://statsandr.com">Stats and R</a>: a blog about statistics and applications in R
 - <a href="https://nicercode.github.io/">Nice R Code </a>: by ‘nicer’ we mean code that is easy to write and read, runs fast, gives reliable results, is easy to reuse in new projects, and is easy to share with collaborators
+- <a href="https://twitter.com/rfunctionaday">@rfunctionaday</a>: R function a day to keep the madness away (Twitter account)
 
 ## R cheatsheets
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more.
