@@ -29,7 +29,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://nicercode.github.io/">Nice R Code </a>: by ‘nicer’ we mean code that is easy to write and read, runs fast, gives reliable results, is easy to reuse in new projects, and is easy to share with collaborators
 
 ## R cheatsheets
-In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more
+In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more.
 
 ## Electronic books
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/books"><strong><em>books</em></strong> folder</a>, you can download the following books in PDF format:
