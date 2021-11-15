@@ -17,6 +17,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
 - <a href="https://rmarkdown.rstudio.com"><code>rmarkdown</code></a>: a productive notebook interface to weave together narrative text and code to produce elegantly formatted output
 - <a href="http://environmentalcomputing.net">Environmental Computing</a>: a brief introduction to techniques for data organisation, graphics and analyses
+-  <a href="https://ourcodingclub.github.io/course.html">Data Science for Ecologists & Environmental Scientists</a>: a free and self-paced journey through a tailored selection of Coding Club tutorials, quizzes and practical challenges
 
 ## Online communities (Q & A)
 - <a href="https://stackoverflow.com">stackoverflow</a>: a collaboratively edited question and answer site for professional and enthusiast programmers
