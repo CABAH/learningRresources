@@ -1,4 +1,4 @@
-# Resources for learning <a href="https://cran.r-project.org">R</a>
+# Resources for learning (and getting better with) <a href="https://cran.r-project.org">R</a>
 
 <a href="https://cran.r-project.org"><img align="right" src="R_logo.png" alt="R" width="250" style="margin-top: 20px"></a>
 
