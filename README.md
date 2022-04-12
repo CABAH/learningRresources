@@ -33,15 +33,15 @@ Various online & other resources for learning and improving skills in the <a hre
 - <em><a href="https://r-forge.r-project.org/scm/viewvc.php/*checkout*/pkg/biomod2/inst/doc/Simple_species_modelling.pdf?root=biomod">An example of species distribution modelling with <code>biomod2</code></a></em> (PDF): how to build, evaluate and project a single species distribution model using the <code>biomod2</code> package
 
 ## Online communities (Q & A)
-- <a href="https://stackoverflow.com">stackoverflow</a>: a collaboratively edited question and answer site for professional and enthusiast programmers
-- <a href="https://stat.ethz.ch/mailman/listinfo/r-help">R-help</a>: the main R mailing list, for announcements about the development of R and the availability of new code, questions and answers about problems and solutions using R, enhancements and patches to the source code and documentation of R
-- <a href="https://www.r-bloggers.com/">R-bloggers</a>: a blog aggregator of content contributed by bloggers who write about R
-- <a href="https://blog.revolutionanalytics.com">Revolutions</a> (blog): dedicated to news and information of interest to members of the R community
-- <a href="https://www.r-statistics.com/">R-statistics</a> (blog): statistics with R, and open source stuff (software, data, community)
-- <a href="https://rdatamining.wordpress.com">RDataMining</a>: presents examples on using R for data mining applications 
-- <a href="https://statsandr.com">Stats and R</a>: a blog about statistics and applications in R
-- <a href="https://nicercode.github.io/">Nice R Code </a>: by ‘nicer’ we mean code that is easy to write and read, runs fast, gives reliable results, is easy to reuse in new projects, and is easy to share with collaborators
-- <a href="https://twitter.com/rfunctionaday">@rfunctionaday</a>: R function a day to keep the madness away (Twitter account)
+- <em><a href="https://stackoverflow.com">stackoverflow</a></em>: a collaboratively edited question and answer site for professional and enthusiast programmers
+- <em><a href="https://stat.ethz.ch/mailman/listinfo/r-help">R-help</a></em>: the main R mailing list, for announcements about the development of R and the availability of new code, questions and answers about problems and solutions using R, enhancements and patches to the source code and documentation of R
+- <em><a href="https://www.r-bloggers.com/">R-bloggers</a></em>: a blog aggregator of content contributed by bloggers who write about R
+- <em><a href="https://blog.revolutionanalytics.com">Revolutions</a></em> (blog): dedicated to news and information of interest to members of the R community
+- <em><a href="https://www.r-statistics.com/">R-statistics</a></em> (blog): statistics with R, and open source stuff (software, data, community)
+- <em><a href="https://rdatamining.wordpress.com">RDataMining</a></em>: presents examples on using R for data mining applications 
+- <em><a href="https://statsandr.com">Stats and R</a>: a blog about statistics and applications in R
+- <em><a href="https://nicercode.github.io/">Nice R Code</a></em>: by ‘nicer’ we mean code that is easy to write and read, runs fast, gives reliable results, is easy to reuse in new projects, and is easy to share with collaborators
+- <em><a href="https://twitter.com/rfunctionaday">@rfunctionaday</a></em>: R function a day to keep the madness away (Twitter account)
 
 ## R cheatsheets
 In the <a href="https://github.com/CABAH/learningRresources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the 70+ different R cheatsheets as a PDF, covering everything from the basics, plotting, cartography, databasing, applications, time series analysis, machine learning, time & date, building packages, parallel computing, resampling methods, markdown, and more.
