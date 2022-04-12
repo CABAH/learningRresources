@@ -5,23 +5,23 @@
 Various online & other resources for learning and improving skills in the <a href="https://cran.r-project.org">R programming language</a>. This is a growing list.
 
 ## Online resources
-- <a href="https://www.udemy.com/course/introduction-to-r/">Introduction to R</a>: a free, 10-hour course to learn the core fundamentals of the R language for interactive use as well as programming
-- <a href="https://www.statmethods.net/">Quick-R</a>: designed for people who want to transition to R
-- <a href="https://www.rforecology.com">RforEcology</a>: a shortcut to learning R quickly, but effectively
-- <a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a>: R shortcourses and modules 
-- <a href="https://r4ds.had.co.nz/">R for Data Science</a>: will teach you how to do data science with R
-- <a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry</a>: R for data analysis and visualisation of ecological data
-- <a href="https://csgillespie.github.io/efficientR/">Efficient R programming</a>: online book showing ways to increase computational and programmer efficiency
-- <a href="http://environmentalcomputing.net">Environmental Computing</a>: a brief introduction to techniques for data organisation, graphics and analyses
-- <a href="https://ourcodingclub.github.io/course.html">Data Science for Ecologists & Environmental Scientists</a>: a free and self-paced journey through a tailored selection of Coding Club tutorials, quizzes and practical challenges
-- <a href="https://otexts.com/fpp3/">Forecasting: Principles and Practice</a>: a textbook providing a comprehensive introduction to forecasting methods
-- <a href="https://github.com/johnmackintosh/CRANt-touch-this">CRANt Touch This</a>: notes and resources of things to check before submission to the CRAN
-- <a href="https://ggplot2.tidyverse.org"><code>ggplot2</code></a>: a system for declaratively creating graphics
-- <a href="https://www.tidyverse.org"><code>tidyverse</code></a>: an opinionated collection of R packages designed for data science
-- <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
-- <a href="https://hadley.github.io/mastering-shiny/">Mastering Shiny</a>: this book complements Shiny’s online documentation and is intended to help app authors develop a deeper understanding of Shiny
-- <a href="https://rmarkdown.rstudio.com"><code>rmarkdown</code></a>: a productive notebook interface to weave together narrative text and code to produce elegantly formatted output
-- <a href="https://r-graph-gallery.com">The R Graph Gallery</a>: a collection of charts made with the R programming language, with their reproducible code
+- <em><a href="https://www.udemy.com/course/introduction-to-r/">Introduction to R</a></em>: a free, 10-hour course to learn the core fundamentals of the R language for interactive use as well as programming
+- <em><a href="https://www.statmethods.net/">Quick-R</a></em>: designed for people who want to transition to R
+- <em><a href="https://www.rforecology.com">RforEcology</a></em>: a shortcut to learning R quickly, but effectively
+- <em><a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a></em>: R shortcourses and modules 
+- <em><a href="https://r4ds.had.co.nz/">R for Data Science</a></em>: will teach you how to do data science with R
+- <em><a href="https://github.com/CABAH/R-ecology-lesson">Data carpentry</a></em>: R for data analysis and visualisation of ecological data
+- <em><a href="https://csgillespie.github.io/efficientR/">Efficient R programming</a></em>: online book showing ways to increase computational and programmer efficiency
+- <em><a href="http://environmentalcomputing.net">Environmental Computing</a></em>: a brief introduction to techniques for data organisation, graphics and analyses
+- <em><a href="https://ourcodingclub.github.io/course.html">Data Science for Ecologists & Environmental Scientists</a></em>: a free and self-paced journey through a tailored selection of Coding Club tutorials, quizzes and practical challenges
+- <em><a href="https://otexts.com/fpp3/">Forecasting: Principles and Practice</a></em>: a textbook providing a comprehensive introduction to forecasting methods
+- <em><a href="https://github.com/johnmackintosh/CRANt-touch-this">CRANt Touch This</a></em>: notes and resources of things to check before submission to the CRAN
+- <em><a href="https://ggplot2.tidyverse.org"><code>ggplot2</code></a></em>: a system for declaratively creating graphics
+- <em><a href="https://www.tidyverse.org"><code>tidyverse</code></a></em>: an opinionated collection of R packages designed for data science
+- <em><a href="https://shiny.rstudio.com"><code>Shiny</code></a></em>: build interactive web apps straight from R
+- <em><a href="https://hadley.github.io/mastering-shiny/">Mastering Shiny</a></em>: this book complements Shiny’s online documentation and is intended to help app authors develop a deeper understanding of Shiny
+- <em><a href="https://rmarkdown.rstudio.com"><code>rmarkdown</code></a></em>: a productive notebook interface to weave together narrative text and code to produce elegantly formatted output
+- <em><a href="https://r-graph-gallery.com">The R Graph Gallery</a></em>: a collection of charts made with the R programming language, with their reproducible code
 
 ## Species distribution modelling
 - <a href="https://damariszurell.github.io/SDM-Intro/">Introduction to species distribution modelling in R</a>: a short, half-day introduction to species distribution modelling in R, including a brief overview of the concept of species distribution modelling, and an introduction to the main modelling steps
