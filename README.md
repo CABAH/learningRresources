@@ -21,6 +21,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://shiny.rstudio.com"><code>Shiny</code></a>: build interactive web apps straight from R
 - <a href="https://hadley.github.io/mastering-shiny/">Mastering Shiny</a>: this book complements Shiny’s online documentation and is intended to help app authors develop a deeper understanding of Shiny
 - <a href="https://rmarkdown.rstudio.com"><code>rmarkdown</code></a>: a productive notebook interface to weave together narrative text and code to produce elegantly formatted output
+- <a href="https://r-graph-gallery.com">The R Graph Gallery</a>: a collection of charts made with the R programming language, with their reproducible code
 
 ## Species distribution modelling
 - <a href="https://damariszurell.github.io/SDM-Intro/">Introduction to species distribution modelling in R</a>: a short, half-day introduction to species distribution modelling in R, including a brief overview of the concept of species distribution modelling, and an introduction to the main modelling steps
