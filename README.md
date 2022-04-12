@@ -39,7 +39,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <em><a href="https://blog.revolutionanalytics.com">Revolutions</a></em> (blog): dedicated to news and information of interest to members of the R community
 - <em><a href="https://www.r-statistics.com/">R-statistics</a></em> (blog): statistics with R, and open source stuff (software, data, community)
 - <em><a href="https://rdatamining.wordpress.com">RDataMining</a></em>: presents examples on using R for data mining applications 
-- <em><a href="https://statsandr.com">Stats and R</a>: a blog about statistics and applications in R
+- <em><a href="https://statsandr.com">Stats and R</a></em>: a blog about statistics and applications in R
 - <em><a href="https://nicercode.github.io/">Nice R Code</a></em>: by ‘nicer’ we mean code that is easy to write and read, runs fast, gives reliable results, is easy to reuse in new projects, and is easy to share with collaborators
 - <em><a href="https://twitter.com/rfunctionaday">@rfunctionaday</a></em>: R function a day to keep the madness away (Twitter account)
 
