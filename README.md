@@ -6,6 +6,8 @@ Various online & other resources for learning and improving skills in the <a hre
 
 ## Online resources
 - <em><a href="https://www.udemy.com/course/introduction-to-r/">Introduction to R</a></em>: a free, 10-hour course to learn the core fundamentals of the R language for interactive use as well as programming
+- <em><a href="https://rfortherestofus.com/courses/getting-started/">Getting Started with R</a></em>: a free course designed to get new users, no matter what's holding you back, up and running quickly
+- <em><a href="https://rfortherestofus.com/resources/">R for the Rest of Us — Resources</a></em>: a carefully curated collection of resources to help you find packages and learning resources to help you on your R journey
 - <em><a href="https://www.statmethods.net/">Quick-R</a></em>: designed for people who want to transition to R
 - <em><a href="https://www.rforecology.com">RforEcology</a></em>: a shortcut to learning R quickly, but effectively
 - <em><a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a></em>: R shortcourses and modules 
@@ -16,7 +18,6 @@ Various online & other resources for learning and improving skills in the <a hre
 - <em><a href="https://ourcodingclub.github.io/course.html">Data Science for Ecologists & Environmental Scientists</a></em>: a free and self-paced journey through a tailored selection of Coding Club tutorials, quizzes and practical challenges
 - <em><a href="https://otexts.com/fpp3/">Forecasting: Principles and Practice</a></em>: a textbook providing a comprehensive introduction to forecasting methods
 - <em><a href="https://github.com/johnmackintosh/CRANt-touch-this">CRANt Touch This</a></em>: notes and resources of things to check before submission to the CRAN
-- <em><a href="https://rfortherestofus.com/courses/getting-started/">Getting Started with R</a></em>: a free course designed to get new users, no matter what's holding you back, up and running quickly
 - <em><a href="https://ggplot2.tidyverse.org"><code>ggplot2</code></a></em>: a system for declaratively creating graphics
 - <em><a href="https://www.tidyverse.org"><code>tidyverse</code></a></em>: an opinionated collection of R packages designed for data science
 - <em><a href="https://shiny.rstudio.com"><code>Shiny</code></a></em>: build interactive web apps straight from R
