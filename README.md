@@ -8,6 +8,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <em><a href="https://www.udemy.com/course/introduction-to-r/">Introduction to R</a></em>: a free, 10-hour course to learn the core fundamentals of the R language for interactive use as well as programming
 - <em><a href="https://rfortherestofus.com/courses/getting-started/">Getting Started with R</a></em>: a free course designed to get new users, no matter what's holding you back, up and running quickly
 - <em><a href="https://rfortherestofus.com/resources/">R for the Rest of Us — Resources</a></em>: a carefully curated collection of resources to help you find packages and learning resources to help you on your R journey
+- <em><a href="http://r4all.org">R4All</a></em>: specialises in teaching R to beginners, and improving the workflow of experienced users
 - <em><a href="https://www.statmethods.net/">Quick-R</a></em>: designed for people who want to transition to R
 - <em><a href="https://www.rforecology.com">RforEcology</a></em>: a shortcut to learning R quickly, but effectively
 - <em><a href="https://www.jaredknowles.com/r-bootcamp/">R Bootcamp</a></em>: R shortcourses and modules 
