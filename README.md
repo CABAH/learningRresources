@@ -33,7 +33,10 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="http://www.r-gators.com/2018/01/24/introduction-to-species-distribution-models/">Introduction to Species Distribution Models</a></em>: video presentation & example code
 - <em><a href="http://spatialecology.weebly.com/r-code--data/category/sdm-glm">Species Distribution Model: Generalized Linear Models</a></em>: a model that can be applied in univariate and multivariate applications, and used to estimate an ecological response as a linear combination of independent predictor variables
 - <em><a href="https://r-forge.r-project.org/scm/viewvc.php/*checkout*/pkg/inst/doc/Biomod_Presentation_Manual.pdf?revision=218&root=biomod&pathrev=218">Presentation Manual for BIOMOD</a></em> (PDF): a platform for ensemble forecasting of species distributions, enabling the explicit treatment of model uncertainties and the examination of species-environment relationships
-- <em><a href="https://r-forge.r-project.org/scm/viewvc.php/*checkout*/pkg/biomod2/inst/doc/Simple_species_modelling.pdf?root=biomod">An example of species distribution modelling with <code>biomod2</code></a></em> (PDF): how to build, evaluate and project a single species distribution model using the <code>biomod2</code> package
+- <em><a href="https://oliviergimenez.github.io/popdyn-workshop/">Quantitative methods for population dynamics</a>: This two-day workshop deals with the analysis and modelling of population dynamics, including population-projection matrix models, population viability analyses, estimation of demographic parameters (e.g., survival, dispersal) using capture-recapture models, and estimation of population density/abundance using capture-recapture, N-mixture, and distance sampling models. 
+
+## Population dynamics
+- <em><a href="https://damariszurell.github.io/SDM-Intro/">Introduction to species distribution modelling in R</a></em>: a short, half-day introduction to species distribution modelling in R, including a brief overview of the concept of species distribution modelling, and an introduction to the main modelling steps
 
 ## Online communities (Q & A)
 - <em><a href="https://stackoverflow.com">stackoverflow</a></em>: a collaboratively edited question and answer site for professional and enthusiast programmers
