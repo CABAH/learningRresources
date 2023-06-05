@@ -37,6 +37,10 @@ Various online & other resources for learning and improving skills in the <a hre
 
 ## Population dynamics
 - <em><a href="https://damariszurell.github.io/SDM-Intro/">Introduction to species distribution modelling in R</a></em>: a short, half-day introduction to species distribution modelling in R, including a brief overview of the concept of species distribution modelling, and an introduction to the main modelling steps
+  
+## Ecological networks
+- <a href="https://github.com/derek-corcoran-barrios/NetworkExtinction"><code>NetworkExtinction</code></a>: An R package to simulate extinction propagation and rewiring potential in ecological networks (see paper <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14126">here</a>)
+- <a href="https://rdocumentation.org/packages/network/versions/1.18.1"><code>network</code></a>: Tools to create and modify network objects in R
 
 ## Online communities (Q & A)
 - <em><a href="https://stackoverflow.com">stackoverflow</a></em>: a collaboratively edited question and answer site for professional and enthusiast programmers
