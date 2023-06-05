@@ -39,7 +39,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <em><a href="https://oliviergimenez.github.io/popdyn-workshop/">Quantitative methods for population dynamics</a></em>: This two-day workshop deals with the analysis and modelling of population dynamics, including population-projection matrix models, population viability analyses, estimation of demographic parameters (e.g., survival, dispersal) using capture-recapture models, and estimation of population density/abundance using capture-recapture, N-mixture, and distance sampling models. 
   
 ## Ecological networks
-- <em><a href="https://github.com/derek-corcoran-barrios/NetworkExtinction"><code>NetworkExtinction</code></a></em>: An R package to simulate extinction propagation and rewiring potential in ecological networks (see paper <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14126">here</a>)
+- <em><a href="https://github.com/derek-corcoran-barrios/NetworkExtinction"><code>NetworkExtinction</code></a></em>: An R package to simulate extinction propagation and rewiring potential in ecological networks (see related paper in the <em>articles</em> folder, or online <a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14126">here</a>)
 - <em><a href="https://rdocumentation.org/packages/network/versions/1.18.1"><code>network</code></a></em>: Tools to create and modify network objects in R
 - <em><a href="https://rdocumentation.org/packages/igraph/versions/1.3.5"><code>igraph</code></a></em>: Routines for simple graphs and network analysis in R
 
